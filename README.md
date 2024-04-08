@@ -6,7 +6,7 @@ In this project, I've created a dynamic animation where atoms orbit around the R
 
 Explore the animation in action! 
 
-[![Explore](https://img.shields.io/badge/Explore-Site-green?style=for-the-badge&logo=github)](https://aligadashov.github.io/Promotion-standart-page/)
+[![Explore](https://img.shields.io/badge/Explore-Site-green?style=for-the-badge&logo=github)](https://aligadashov.github.io/React-logo-animation/)
 
 ### About
 
